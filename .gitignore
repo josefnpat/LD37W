@@ -1,0 +1,5 @@
+*.swp
+*.love
+src/git.lua
+builds/
+*.tmx.lua
